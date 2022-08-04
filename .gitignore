@@ -64,3 +64,4 @@ flycheck_*.el
 .nfs*
 
 *.out
+*.txt
